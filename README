@@ -1,0 +1,2 @@
+create patch files from 2 different git repositories
+It is useful when you access web servers through ftp only and the codebase is in a git repository. Set the parameters inside it, run and copy the files to the server.
